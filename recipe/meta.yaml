@@ -46,6 +46,11 @@ about:
   summary: BLAS-like Library Instantiation Software Framework
 
 extra:
+  anaconda-services:
+    ref: https://anaconda.zendesk.com/agent/tickets/56871
+    reason: Dependency for blis
+  recipe-maintainers:
+    - ianaobi
   recipe-maintainers:
     - isuruf
     - h-vetinari
