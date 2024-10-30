@@ -23,6 +23,7 @@ requirements:
     - sed                    # [unix]
     - perl
     - python >=3.5
+    - make
   host:
   run:
 
