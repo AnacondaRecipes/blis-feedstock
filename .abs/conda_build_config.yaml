@@ -1,5 +1,3 @@
 c_compiler:
   - gcc     # [linux]
 
-python:
-  - 3.12
